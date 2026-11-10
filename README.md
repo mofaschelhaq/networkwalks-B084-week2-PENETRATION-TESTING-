@@ -47,7 +47,7 @@ I performed reconnaissance against the `networkwalks.com` domain using six Kali 
 
 First, I used **WHOIS** to obtain publicly available domain registration information and identify the domain’s name servers. The results provided information about the domain registration and hosting infrastructure.
 
-I then used **WhatWeb** to identify technologies used by the website. The results identified **WordPress 7.0.4** and **WP Download Manager 3.3.58**, along with other information exposed by the website.
+I then used **WhatWeb** to identify technologies used by the website. The results identified **WordPress 7.1.4** and **WP Download Manager 3.3.76**, along with other information exposed by the website.
 
 Using **Nslookup**, I resolved the domain name to its IP address. The provided result identified **192.232.216.135**.
 
@@ -63,18 +63,15 @@ For the second activity, I used **Zenmap** to perform network discovery on my lo
 
 I first used the Windows `ipconfig` command to identify my local IP address and LAN subnet. I then entered the subnet into Zenmap and selected **Ping Scan** to identify active hosts.
 
-The example results provided in the practical identified four live hosts:
+The example results provided in the practical identified two live hosts:
 
-- `10.0.0.1`
-- `10.0.0.4`
-- `10.0.0.19`
-- `10.0.0.5`
+- `192.168.0.1`
+- `192.168.0.100`
 
-The example results also included four MAC addresses.
+The example results also included two MAC addresses.
 
 After completing the scan, I opened the **Topology** section in Zenmap, enabled the legend and saved the network topology in PDF format as required by the practical task.
 
-**Note:** The actual subnet, number of hosts and addresses should be replaced with the results from my own network when submitting the report.
 
 # 5. Risk Analysis / Impact
 
