@@ -158,8 +158,9 @@ Finally, I learned that reconnaissance and scanning must always be performed wit
 
 ![dnsrecon output](6_dnsrecon.png)
 
-![Zenmap scan and topology](zenmap.png)
-(zenmap2.png)
+![Zenmap scan ](zenmap.png)
+
+![Zenmap  topology ](zenmap2.png)
 
 -End-
 
