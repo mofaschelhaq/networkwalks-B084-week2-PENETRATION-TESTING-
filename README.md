@@ -9,13 +9,13 @@
 | **Program/Batch** | Cybersecurity/B084 |
 | **Date** | 10 November 2026 |
 | **Modules completed** | W2-PM1 (Multiple Kali Tools)<br>W2-PM5 (Zenmap Scanning) |
-| **Client/Target** | 1. Networkwalks (secured written permission already)<br>2. My own local LAN Network |
+| **Client/Target** | 1. Networkwalks <br>2. My own local LAN Network |
 | **Permission secured from client?** | Yes |
 | **Phases covered** | **Phase 1:** Reconnaissance & Footprinting<br>**Phase 2:** Scanning & Network Discovery<br>**Phase 3-5:** In Progress |
 
 # 1. Liability Disclaimer
 
-I have performed these activities only on the systems & devices where I had secured written permission or the devices/systems that I own myself. All these materials are for education and research purpose only. Do not use anything from here to break the law. The instructor, the authors and Networkwalks are not responsible for what you do with this knowledge. Every action you take is your own responsibility. Misuse can lead to criminal charges, heavy fines, loss of your job and a permanent record. In most countries unauthorised access is a crime even when nothing is damaged.
+This report documents educational cybersecurity activities and the results supplied for preparation of this report. Reconnaissance and scanning must only be conducted against systems and networks that the tester owns or is expressly authorized in writing to assess. The materials are for education and research purposes and must not be used to gain unauthorized access, disrupt services, or violate applicable laws. The supplied materials do not include a copy of written authorization for the external domain; authorization should be confirmed and retained by the tester before performing or repeating any testing against that domain. The local network scan is described as the user's local subnet based on the supplied evidence.
 
 # 2. Introduction
 
@@ -143,8 +143,6 @@ I also learned that technical findings should be documented clearly. A good cybe
 Finally, I learned that reconnaissance and scanning must always be performed within an authorized scope. These activities were completed as part of the assigned educational cybersecurity lab.
 
 # 8. Evidences Collected
-
-*Screenshots collected as evidence during the activities (stored in the `screenshots/` folder):*
 
 ![whois output](1_whois.png)
 
